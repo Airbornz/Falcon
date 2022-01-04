@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<options>
+	<software>
+		<title>Example Software</title>
+		<location>example.exe</location>
+		<copyright>Example LLC.</copyright>
+	</software>
+</options>
